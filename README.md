@@ -1,22 +1,11 @@
+<!-- SVG Header -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Adeola-Jo/Adeola-Jo/main/robotics-header.svg" alt="Header Image" />
+</p>
 
-<!--
-**adeola-jo/adeola-jo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Hi there, welcome to my GitHub page! 👋
 
-I'm Joseph, an AI Engineer and Robotics Software Developer with a strong background in intelligent field robotics and deep learning. My experience includes working on autonomous robotic exploration, multi-robot control, SLAM, and developing deep learning models.
-I enjoy building intelligent systems and sharing knowledge with the community.
+I'm Joseph, an AI Engineer and Robotics Software Developer with a passion for intelligent field robotics and deep learning. 🚀 I love building intelligent systems and sharing knowledge with the community. From autonomous robotic exploration to multi-robot control and developing deep learning models, I'm always up for a challenge!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=adeola-jo&style=flat-square)
 
@@ -38,9 +27,10 @@ I enjoy building intelligent systems and sharing knowledge with the community.
   <a href="https://www.linkedin.com/in/adeola-joseph" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/yourprofile" target="_blank">
+  <!-- <a href="https://twitter.com/yourprofile" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
+  -->
   <a href="mailto:adeolajosepholoruntoba@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
@@ -52,10 +42,11 @@ I enjoy building intelligent systems and sharing knowledge with the community.
 ## 📂 Featured Projects
 
 - **[Robust Coordination and Control of Multi-Robot Systems Using Consensus Protocols](https://github.com/MosesEbere/multi-robot-consensus)**:
-
+  
   This project focused on developing and implementing consensus protocol-based control strategies for multi-robot systems, particularly for rendezvous and formation control. Using graph theory, we modeled and controlled the dynamics of robot swarms in both distributed and semi-distributed settings. The experimental analysis was conducted in a dual-simulation environment, integrating Pygame and Stage Simulator with ROS, to assess the effectiveness of these protocols.
-- **[Controlling a Swarm of Robots in a Simulator Stage using Reynolds’ Rules](https://github.com/yourusername/project2)**:
 
+- **[Controlling a Swarm of Robots in a Simulator Stage using Reynolds’ Rules](https://github.com/yourusername/project2)**:
+  
   In this project, we programmed virtual robots to move together like a coordinated swarm, inspired by the natural movements of birds and fish and Craig Reynolds' behavioral rules. By applying simple principles like Separation, Alignment, and Cohesion, we created a simulation where the robots navigated collectively, avoided obstacles, and reached their destinations together.
 
 ## 📝 Latest Blog Posts
@@ -68,4 +59,3 @@ Feel free to reach out if you have any questions or just want to connect!
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adeola-jo&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adeola-jo&layout=compact&theme=radical)
-
