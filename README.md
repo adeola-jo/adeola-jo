@@ -14,3 +14,57 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Welcome to Joseph's GitHub Profile! 👋
+
+![Profile Views](https://komarev.com/ghpvc/?username=joseph&style=flat-square)
+
+I am a passionate Robotics Software Developer with a strong background in robotics, automation, and AI. I enjoy building intelligent systems and sharing knowledge with the community.
+
+## 🚀 Technologies & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+</p>
+
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://yourwebsite.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+  </a>
+</p>
+
+## 📂 Featured Projects
+
+- **[Project 1](https://github.com/yourusername/project1)**: Description of your project
+- **[Project 2](https://github.com/yourusername/project2)**: Description of your project
+- **[Project 3](https://github.com/yourusername/project3)**: Description of your project
+
+## 📝 Latest Blog Posts
+
+- **[Title of Blog Post 1](https://yourwebsite.com/blog/post1)**
+- **[Title of Blog Post 2](https://yourwebsite.com/blog/post2)**
+- **[Title of Blog Post 3](https://yourwebsite.com/blog/post3)**
+
+Feel free to reach out if you have any questions or just want to connect!
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
