@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Welcome to Joseph's GitHub Profile! 👋
+## Hi there 👋 Welcome to my github page
 
 ![Profile Views](https://komarev.com/ghpvc/?username=joseph&style=flat-square)
 
