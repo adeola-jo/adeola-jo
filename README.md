@@ -1,6 +1,6 @@
 <!-- SVG Header -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Adeola-Jo/Adeola-Jo/main/robotics-header.svg" alt="Header Image" />
+  <img src="banner.png" alt="Header Image" />
 </p>
 
 # Hi there, welcome to my GitHub page! 👋
