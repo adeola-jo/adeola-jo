@@ -51,15 +51,15 @@ I am a passionate Robotics Software Developer with a strong background in roboti
 ## 📂 Featured Projects
 
 - **[Robust Coordination and Control of Multi-Robot Systems Using Consensus Protocols](https://github.com/MosesEbere/multi-robot-consensus)**:
+
   This project focused on developing and implementing consensus protocol-based control strategies for multi-robot systems, particularly for rendezvous and formation control. Using graph theory, we modeled and controlled the dynamics of robot swarms in both distributed and semi-distributed settings. The experimental analysis was conducted in a dual-simulation environment, integrating Pygame and Stage Simulator with ROS, to assess the effectiveness of these protocols.
 - **[Controlling a Swarm of Robots in a Simulator Stage using Reynolds’ Rules](https://github.com/yourusername/project2)**:
+
   In this project, we programmed virtual robots to move together like a coordinated swarm, inspired by the natural movements of birds and fish and Craig Reynolds' behavioral rules. By applying simple principles like Separation, Alignment, and Cohesion, we created a simulation where the robots navigated collectively, avoided obstacles, and reached their destinations together.
 
 ## 📝 Latest Blog Posts
 
-- **[Title of Blog Post 1](https://yourwebsite.com/blog/post1)**
-- **[Title of Blog Post 2](https://yourwebsite.com/blog/post2)**
-- **[Title of Blog Post 3](https://yourwebsite.com/blog/post3)**
+- **[Walking in Purpose](https://yourwebsite.com/blog/post1)**
 
 Feel free to reach out if you have any questions or just want to connect!
 
