@@ -51,7 +51,7 @@ I'm Joseph, an AI Engineer and Robotics Software Developer with a passion for in
 
 ## 📝 Latest Blog Posts
 
-- **[Walking in Purpose](https://yourwebsite.com/blog/post1)**
+- **[Introduction to Reinforcement Learning](https://yourwebsite.com/blog/post1)**
 
 Feel free to reach out if you have any questions or just want to connect!
 
