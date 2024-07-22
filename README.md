@@ -1,6 +1,6 @@
 <!-- SVG Header -->
 <p align="center">
-  <img src="banner.png" alt="Header Image" />
+  <img src="banner.jpg" alt="Header Image" />
 </p>
 
 # Hi there, welcome to my GitHub page! 👋
