@@ -49,7 +49,7 @@ I'm Joseph, an AI Engineer and Robotics Software Developer with a passion for in
   
   In this project, we programmed virtual robots to move together like a coordinated swarm, inspired by the natural movements of birds and fish and Craig Reynolds' behavioral rules. By applying simple principles like Separation, Alignment, and Cohesion, we created a simulation where the robots navigated collectively, avoided obstacles, and reached their destinations together.
 
- [Click here to view all projects](https://github.com/adeola-jo/adeola-jo/blob/main/all-projects.md)
+ [***Click here to view all projects***](https://github.com/adeola-jo/adeola-jo/blob/main/all-projects.md)
  
 ## 📝 Latest Blog Posts
 
