@@ -10,7 +10,7 @@
     </td>
     <td style="border: none;">
        <h1 >👋 Hi there! Welcome to my projects page. </h1>
-      <span>Here, you'll find a collection of my work in robotics, AI, and more. Enjoy exploring!</span>
+      <span>Here, you'll find a collection of my work over the past 2 years in robotics 🦾, AI 🧠, computer vision 👁️, data science 📊, and more. Enjoy exploring! 🌟</span>
     </td>
   </tr>
 </table>
