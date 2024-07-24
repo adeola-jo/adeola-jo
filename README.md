@@ -39,7 +39,7 @@ I'm Joseph, an AI Engineer and Robotics Software Developer with a passion for in
   </a>
 </p>
 
-## 📂 Featured Projects
+## 📂 Recent Projects
 
 - **[Robust Coordination and Control of Multi-Robot Systems Using Consensus Protocols](https://github.com/MosesEbere/multi-robot-consensus)**:
   
@@ -64,7 +64,7 @@ Feel free to reach out if you have any questions or just want to connect!
 
 
 
-# 📂 Featured Projects
+# 📂 All Projects
 
 ## Robotics and Control
 
