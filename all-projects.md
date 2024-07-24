@@ -1,12 +1,14 @@
-# 📂 All Projects
 
 <div style="display: flex; align-items: center;">
-  <img src="https://via.placeholder.com/150" alt="Your Image" style="border-radius: 50%; margin-right: 20px;">
+  <img src="profile-pic.jpeg" alt="Your Image" style="border-radius: 100%; margin-right: 20px; width: 100px;">
   <div>
     <strong>Joseph Adeola</strong><br>
     👋 Hi there! Welcome to my projects section. Here, you'll find a collection of my work in robotics, AI, and more. Enjoy exploring!
   </div>
 </div>
+
+
+# 📂 All Projects
 
 ## Robotics and Control
 
