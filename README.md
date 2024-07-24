@@ -70,138 +70,150 @@ Feel free to reach out if you have any questions or just want to connect!
 
 - **[Design of an Attitude and Position PID Controller for a Quadcopter](https://github.com/yourusername/quadcopter-pid-controller)**:
   
-  Implemented a PID controller for precise attitude and position control of a quadcopter, enhancing stability and maneuverability in various flight conditions.
+  A PID control system for quadcopter attitude and position control. Implements separate controllers for roll, pitch, yaw, and altitude. Addresses challenges in tuning gains for stable flight in various conditions and disturbance rejection.
 
 - **[Pick and Place Application with the Stäubli TS60 Robot](https://github.com/yourusername/staubli-ts60-pick-place)**:
   
-  Developed a pick and place application for the Stäubli TS60 robot, focusing on precise object manipulation and efficient task execution.
+  A pick and place system implementation in VAL3 languuage for the Stäubli TS60 industrial robot.
 
 - **[Pick and Place Application with the Stäubli TX60 Robot](https://github.com/yourusername/staubli-tx60-pick-place)**:
   
-  Created a pick and place system for the Stäubli TX60 robot, emphasizing accuracy and speed in industrial automation tasks.
+  A high-speed pick and place application for the Stäubli TX60 robot in VAL3 language. 
 
 - **[Kinematic Control System for a Mobile Manipulator](https://github.com/yourusername/mobile-manipulator-control)**:
   
-  Designed and implemented a kinematic control system for a mobile manipulator using task-priority redundancy resolution, enabling complex manipulation tasks in dynamic environments.
+  A control system for coordinating a mobile base with a robotic arm. Uses task-priority redundancy resolution for simultaneous navigation and manipulation. Addresses challenges in managing multiple degrees of freedom and avoiding singularities.
 
 - **[Controlling a Swarm of Omnidirectional Robots Using Reynolds' Rules](https://github.com/yourusername/reynolds-swarm-control)**:
   
-  Programmed a swarm of omnidirectional robots to move cohesively using Reynolds' flocking rules, demonstrating emergent collective behavior in a simulated environment.
+  Implementation of Reynolds' flocking rules for a group of omnidirectional robots. Applies principles of separation, alignment, and cohesion to achieve collective behavior. Tackles issues in distributed control and scalability to larger swarms.
 
 - **[Design and Simulation of a SCARA Manipulator in ROS and Gazebo](https://github.com/yourusername/scara-manipulator-ros)**:
   
-  Designed and simulated a SCARA robot arm using ROS and Gazebo, focusing on kinematics, motion planning, and control strategies for industrial applications.
+  A model of the Stäubli TS60 SCARA robot arm modeled from scratch using URDF and simulated in ROS and Gazebo. 
 
 ## Computer Vision and Image Processing
 
 - **[Integrated Machine Vision Application with the Stäubli TX60 Robot](https://github.com/yourusername/staubli-tx60-vision)**:
   
-  Developed a machine vision system integrated with the Stäubli TX60 robot for advanced object recognition and manipulation tasks.
+  A machine vision system integrated with the Stäubli TX60 robot. Uses ARUCO markers for object detection and pose estimation. 
+  <!-- Tackles challenges in real-time processing and robust error handling in dynamic industrial environments. -->
 
 - **[Stereo Visual Odometry on the KITTI Dataset](https://github.com/yourusername/stereo-visual-odometry)**:
   
-  Implemented a stereo visual odometry system using the KITTI dataset, enabling accurate vehicle trajectory estimation from stereo camera inputs.
+  A stereo visual odometry system using the KITTI dataset. Implements feature extraction, matching, and motion estimation techniques. 
+  <!-- Addresses challenges in handling diverse outdoor scenarios and maintaining accuracy over long distances. -->
 
 - **[Feature Tracker Using ICP Algorithm for Event-based Pose Estimation](https://github.com/yourusername/event-based-feature-tracker)**:
   
-  Created a feature tracking system for event-based cameras (DAVIS346) using the Iterative Closest Point (ICP) algorithm, enabling efficient pose estimation in dynamic environments.
+  A feature tracking system for event-based cameras using the ICP algorithm. Enables pose estimation in high-speed and high-dynamic range scenarios. 
+  <!-- Focuses on efficient processing of asynchronous event data and handling rapid motions. -->
 
 - **[Camera Calibration, Pose Estimation, and AR using Aruco Markers](https://github.com/yourusername/aruco-pose-estimation)**:
   
-  Implemented camera calibration, pose estimation, and augmented reality applications using Aruco markers in C++, enhancing computer vision capabilities for robotics and AR.
+  A system for camera calibration, pose estimation, and AR using Aruco markers. Implements marker detection and tracking algorithms in C++. 
+  <!-- Addresses challenges in achieving real-time performance and handling marker occlusions. -->
 
 - **[Underwater Image Analysis and Registration](https://github.com/yourusername/underwater-image-analysis)**:
   
-  Developed techniques for analyzing and registering underwater images, addressing challenges such as color distortion and low visibility.
+  Techniques for analyzing and registering underwater images. Implements methods for color correction, visibility enhancement, and feature matching. 
+  <!-- Tackles issues related to light attenuation, scattering, and low contrast in underwater environments. -->
 
 - **[Epipolar Geometry and Stereo Vision Implementation](https://github.com/yourusername/epipolar-stereo-vision)**:
   
-  Implemented epipolar geometry concepts and stereo vision algorithms for 3D scene reconstruction and depth estimation.
+  Implementation of epipolar geometry and stereo vision algorithms. Covers camera calibration, rectification, disparity computation, and 3D reconstruction. 
+  <!-- Addresses challenges in achieving accurate depth estimation and handling occlusions. -->
 
 ## AI and Machine Learning
 
 - **[Explainable AI Module for Interpreting Object Detection Models](https://github.com/yourusername/xai-object-detection)**:
   
-  Developed an explainable AI module to interpret decisions made by object detection models, enhancing transparency and trust in AI systems.
+  An explainable AI module for object detection models in skin lesion detection. Implements local and global attribution techniques like Grad-CAM, SmoothGrad and LRP for generating explanations. Focuses on improving model interpretability in critical applications. 
 
 - **[Pigmented Skin Lesion Detection Using Deep Learning](https://github.com/yourusername/skin-lesion-detection)**:
   
-  Implemented a deep learning model for detecting pigmented skin lesions in clinical images, aiding in early diagnosis of skin conditions.
+  A deep learning model for detecting pigmented skin lesions in clinical images. Utilizes transfer learning and data augmentation techniques. Addresses challenges in working with limited medical imaging datasets.
+   <!-- and achieving high sensitivity. -->
 
 - **[Semantic Segmentation of Pigmented Skin Lesions](https://github.com/yourusername/skin-lesion-segmentation)**:
   
-  Created a semantic segmentation model for accurate delineation of pigmented skin lesions in clinical images, supporting precise analysis and treatment planning.
+  A semantic segmentation model for pigmented skin lesions. Adapts the U-Net architecture for precise lesion delineation. Tackles issues in handling irregular lesion shapes and achieving high boundary accuracy.
 
 - **[Deep Learning Based Sentiment Analysis on SST Dataset](https://github.com/yourusername/sst-sentiment-analysis)**:
   
-  Developed a deep learning model for sentiment analysis using the Stanford Sentiment Treebank dataset, achieving high accuracy in text classification.
+  A sentiment analysis model using the Stanford Sentiment Treebank dataset. Explores RNN, GRU, LSTM and transformer-based architectures. 
+  <!-- Addresses challenges in capturing context and handling nuanced language expressions. -->
 
 - **[Similarity Learning Using Metric Embedding](https://github.com/yourusername/metric-embedding-similarity)**:
   
-  Implemented a similarity learning system using metric embedding techniques, enabling efficient comparison and retrieval of complex data types.
+  A similarity learning system using metric embedding techniques. Focuses on learning embeddings for complex data types like images and text. Tackles challenges in preserving semantic relationships in the embedding space.
 
 - **[Hand-written Digit Classification on MNIST Dataset](https://github.com/yourusername/mnist-classification)**:
   
-  Created a machine learning model for classifying hand-written digits using the MNIST dataset, exploring various neural network architectures.
+  A machine learning model for classifying hand-written digits. Compares various neural network architectures and optimization techniques. Addresses issues in handling variations in handwriting styles and achieving high accuracy.
 
 - **[Image Classification on CIFAR Dataset](https://github.com/yourusername/cifar-classification)**:
   
-  Implemented and compared multiple deep learning models for image classification using the CIFAR dataset, optimizing for accuracy and efficiency.
+  Deep learning models for image classification using the CIFAR dataset. Explores techniques like batch normalization and dropout. Focuses on balancing model complexity with computational efficiency.
 
 - **[Facial Expression Recognition using Transfer Learning](https://github.com/yourusername/facial-expression-recognition)**:
   
-  Developed a facial expression recognition system using transfer learning with ResNet-18 on the Nvidia Jetson Nano, enabling real-time emotion detection.
+  A facial expression recognition system using transfer learning with ResNet-18. Optimized for real-time performance on edge devices. Addresses challenges in handling varying lighting conditions and facial orientations.
 
 ## SLAM and Localization
 
 - **[Implementation of EKF-SLAM with ICP Scan-matching](https://github.com/yourusername/ekf-slam-icp)**:
   
-  Implemented an Extended Kalman Filter SLAM system with ICP scan-matching, using 2D LiDAR and IMU sensors for robust robot localization and mapping.
+  An EKF-SLAM system integrated with ICP scan-matching. Uses 2D LiDAR and IMU sensors for localization and mapping. Tackles challenges in handling sensor uncertainties and achieving real-time performance in small environments.
 
 - **[Feature-based SLAM Using Monocular Camera and Aruco Markers](https://github.com/yourusername/monocular-slam-aruco)**:
   
-  Developed a feature-based SLAM system using a monocular camera and Aruco markers, enabling efficient mapping and localization in marker-augmented environments.
+  A feature-based SLAM system using a monocular camera and Aruco markers. Implements efficient landmark detection and data association. 
+  <!-- Addresses issues in scale ambiguity and loop closure detection. -->
 
 - **[Stereo Visual Odometry Using UTIAS Dataset](https://github.com/yourusername/stereo-vo-utias)**:
   
-  Implemented a stereo visual odometry system using the UTIAS dataset, focusing on robust feature tracking and motion estimation.
+  A stereo visual odometry system using the UTIAS dataset. Emphasizes robust feature tracking and motion estimation. 
+  <!-- Focuses on handling challenging outdoor environments and maintaining long-term consistency. -->
 
 - **[Particle Filter Algorithm for Kobuki Turtlebot Localization](https://github.com/yourusername/turtlebot-particle-filter)**:
   
-  Developed a particle filter-based localization system for the Kobuki Turtlebot in a simulated environment, enabling accurate position estimation.
+  A particle filter-based localization system for the Kobuki Turtlebot. Implements efficient particle sampling and resampling strategies. 
+  <!-- Addresses challenges in achieving real-time performance and handling dynamic obstacles. -->
 
 ## Motion Planning and Autonomous Systems
 
 - **[Autonomous Robot Exploration Using Frontier-Based RRT*](https://github.com/yourusername/frontier-rrt-exploration)**:
   
-  Created an autonomous exploration system combining Frontier-Based exploration with RRT* path planning and Dynamic Window approach for control.
+  An autonomous exploration system combining Frontier-Based exploration with RRT* path planning. Implements the Dynamic Window approach for robot control. Tackles challenges in efficiently exploring unknown environments and avoiding local minima.
 
 - **[Robot Pick and Place Task Using PDDL AI-Planner](https://github.com/yourusername/pddl-pick-place)**:
   
-  Implemented a pick and place task for robots using PDDL (Planning Domain Definition Language) AI planner, enabling complex task sequencing.
+  A pick and place system using PDDL (Planning Domain Definition Language) for task planning. Generates optimal action sequences for multi-object manipulation. Addresses challenges in translating high-level plans to robot actions.
 
 - **[Reinforcement Learning-Based Path Planning](https://github.com/yourusername/rl-path-planning)**:
   
-  Developed a reinforcement learning approach for robot path planning in static environments, optimizing navigation efficiency.
+  A reinforcement learning approach for robot path planning. Utilizes Q-learning method. Focuses on training agents to navigate efficiently in complex environments with obstacles.
 
 - **[Implementation of A*, RRT, and RRT* Motion Planning Algorithms](https://github.com/yourusername/motion-planning-algorithms)**:
   
-  Implemented and compared A*, RRT, and RRT* algorithms for robot motion planning, analyzing their performance in various scenarios.
+  Implementation of A*, RRT, and RRT* algorithms for robot motion planning. 
+  <!-- Conducts performance analysis in various environments. Addresses trade-offs between computational efficiency and path optimality. -->
 
 - **[Autonomous Exploration, Localization, Mapping, Perception, and Manipulation](https://github.com/yourusername/autonomous-robot-system)**:
   
-  Developed an integrated system for autonomous robot operation, combining exploration, SLAM, perception, and manipulation capabilities.
+  An integrated system for autonomous robot operation. Combines exploration, SLAM, perception, and manipulation capabilities. Tackles challenges in coordinating multiple subsystems for end-to-end autonomy.
 
 ## Multi-Robot Systems and Swarm Robotics
 
 - **[Multi-Modal Human-Swarm Interaction](https://github.com/yourusername/multimodal-swarm-interaction)**:
   
-  Created a system for intuitive human-swarm interaction using vision, speech, and multi-agent language models, enabling natural command of robot swarms.
+  A system for human-swarm interaction using vision, speech, and multi-agent language models. Enables natural command and control of robot swarms. Addresses challenges in interpreting high-level instructions for swarm behavior.
 
 - **[Robust Coordination and Control of Multi-Robot Systems Using Consensus Protocols](https://github.com/yourusername/multi-robot-consensus)**:
   
-  Implemented consensus protocol-based control strategies for multi-robot systems, focusing on rendezvous and formation control in distributed settings.
+  Consensus protocol-based control strategies for multi-robot systems. Focuses on rendezvous and formation control using graph theory. Tackles issues in distributed control and scalability in various network topologies.
 
 - **[ROS Package for Spawning Multiple Robots in Gazebo](https://github.com/yourusername/ros-multi-robot-spawn)**:
   
-  Developed a ROS package to efficiently spawn and manage multiple robots in Gazebo simulation, facilitating multi-robot experiment setups.
+  A ROS package for spawning and managing multiple robots in Gazebo. Addresses challenges in efficiently simulating large-scale homogeneous multi-robot systems.
