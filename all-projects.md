@@ -9,7 +9,7 @@
     </td>
     <td style="border: none;">
       <strong>Joseph Adeola</strong><br>
-      <span style="font-size: 2.2em;">👋 Hi there! Welcome to my projects section. Here, you'll find a collection of my work in robotics, AI, and more. Enjoy exploring!</span>
+      <span style="font-size: 5.2em;">👋 Hi there! Welcome to my projects section. Here, you'll find a collection of my work in robotics, AI, and more. Enjoy exploring!</span>
     </td>
   </tr>
 </table>
