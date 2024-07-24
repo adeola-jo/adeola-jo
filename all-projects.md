@@ -10,7 +10,7 @@
     <td style="border: none;">
       <strong>Joseph Adeola</strong><br>
       <span style="font-size: 5.2em;">👋 Hi there! Welcome to my projects section. Here, you'll find a collection of my work in robotics, AI, and more. Enjoy exploring!</span>
-       <h2>👋 Hi there! Welcome to my projects section. Here, you'll find a collection of my work in robotics, AI, and more. Enjoy exploring!</h2>
+       <h3>👋 Hi there! Welcome to my projects section. Here, you'll find a collection of my work in robotics, AI, and more. Enjoy exploring!</h2>
     </td>
   </tr>
 </table>
