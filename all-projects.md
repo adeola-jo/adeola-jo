@@ -2,14 +2,9 @@
 
 ## Robotics and Control
 
-- **[Design of an Attitude and Position PID Controller for a Quadcopter](https://github.com/yourusername/quadcopter-pid-controller)**:
+- **[Design of an Attitude and Position PID Controller for a Quadcopter](https://github.com/yourusername/quadcopter-pid-controller)**:  [![Code](https://img.shields.io/badge/Code-blue)](https://github.com/yourusername/quadcopter-pid-controller) [![Video](https://img.shields.io/badge/Video-red)](https://yourvideo-link.com) [![Paper](https://img.shields.io/badge/Paper-green)](https://yourpaper-link.com) [![Demo](https://img.shields.io/badge/Demo-yellow)](https://yourdemo-link.com)
   
   A PID control system for quadcopter attitude and position control. Implements separate controllers for roll, pitch, yaw, and altitude. Addresses challenges in tuning gains for stable flight in various conditions and disturbance rejection.
-
-    - [![Code](https://img.shields.io/badge/Code-blue)](https://github.com/yourusername/quadcopter-pid-controller)
-  - [![Video](https://img.shields.io/badge/Video-red)](https://yourvideo-link.com)
-  - [![Paper](https://img.shields.io/badge/Paper-green)](https://yourpaper-link.com)
-  - [![Demo](https://img.shields.io/badge/Demo-yellow)](https://yourdemo-link.com)
 
 - **[Pick and Place Application with the Stäubli TS60 Robot](https://github.com/yourusername/staubli-ts60-pick-place)**:
   
