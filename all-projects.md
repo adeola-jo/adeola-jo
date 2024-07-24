@@ -17,6 +17,16 @@
 
 # 📂 All Projects
 
+## Sections
+
+- [Robotics and Control](#robotics-and-control)
+- [Computer Vision and Image Processing](#computer-vision-and-image-processing)
+- [AI and Machine Learning](#ai-and-machine-learning)
+- [SLAM and Localization](#slam-and-localization)
+- [Motion Planning and Autonomous Systems](#motion-planning-and-autonomous-systems)
+- [Multi-Robot Systems and Swarm Robotics](#multi-robot-systems-and-swarm-robotics)
+
+
 ## Robotics and Control
 
 - **[Design of an Attitude and Position PID Controller for a Quadcopter](https://github.com/yourusername/quadcopter-pid-controller)** [![Code](https://img.shields.io/badge/Code-blue)](https://github.com/yourusername/quadcopter-pid-controller) [![Video](https://img.shields.io/badge/Video-red)](https://yourvideo-link.com) [![Paper](https://img.shields.io/badge/Paper-green)](https://yourpaper-link.com) [![Demo](https://img.shields.io/badge/Demo-yellow)](https://yourdemo-link.com):
