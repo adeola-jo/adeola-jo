@@ -6,7 +6,7 @@
   <tr>
     <td style="border: none;">
       <img src="profile-pic.jpeg" alt="Your Image" style="border-radius: 100%; margin-right: 20px; width: 150px;">
-      <span>Joseph Adeola</span>
+      <div>Joseph Adeola</div>
     </td>
     <td style="border: none;">
        <h2 >👋 Hi there! Welcome to my projects page. </h2>
