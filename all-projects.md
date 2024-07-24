@@ -1,5 +1,13 @@
 # 📂 All Projects
 
+<div style="display: flex; align-items: center;">
+  <img src="https://via.placeholder.com/150" alt="Your Image" style="border-radius: 50%; margin-right: 20px;">
+  <div>
+    <strong>Joseph Adeola</strong><br>
+    👋 Hi there! Welcome to my projects section. Here, you'll find a collection of my work in robotics, AI, and more. Enjoy exploring!
+  </div>
+</div>
+
 ## Robotics and Control
 
 - **[Design of an Attitude and Position PID Controller for a Quadcopter](https://github.com/yourusername/quadcopter-pid-controller)** [![Code](https://img.shields.io/badge/Code-blue)](https://github.com/yourusername/quadcopter-pid-controller) [![Video](https://img.shields.io/badge/Video-red)](https://yourvideo-link.com) [![Paper](https://img.shields.io/badge/Paper-green)](https://yourpaper-link.com) [![Demo](https://img.shields.io/badge/Demo-yellow)](https://yourdemo-link.com):
