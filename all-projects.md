@@ -6,10 +6,10 @@
   <tr>
     <td style="border: none;">
       <img src="profile-pic.jpeg" alt="Your Image" style="border-radius: 100%; margin-right: 20px; width: 150px;">
-      <div>Joseph Adeola</div>
+      <div style="text-align: center;">Joseph Adeola</div>
     </td>
     <td style="border: none;">
-       <h2 >👋 Hi there! Welcome to my projects page. </h2>
+       <h1 >👋 Hi there! Welcome to my projects page. </h1>
       <span>Here, you'll find a collection of my work in robotics, AI, and more. Enjoy exploring!</span>
     </td>
   </tr>
