@@ -9,7 +9,7 @@
       Joseph Adeola
     </td>
     <td style="border: none;">
-       <h3 style="font-size: 1.5em;">👋 Hi there! Welcome to my projects section. </h2>
+       <h2 style="font-size: 2.5em;">👋 Hi there! Welcome to my projects page. </h2>
       <span>Here, you'll find a collection of my work in robotics, AI, and more. Enjoy exploring!</span>
     </td>
   </tr>
