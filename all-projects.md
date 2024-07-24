@@ -1,4 +1,7 @@
 
+
+# 📂 All Projects
+
 <table>
   <tr>
     <td style="border: none;">
@@ -6,13 +9,10 @@
     </td>
     <td style="border: none;">
       <strong>Joseph Adeola</strong><br>
-      👋 Hi there! Welcome to my projects section. Here, you'll find a collection of my work in robotics, AI, and more. Enjoy exploring!
+      <span style="font-size: 1.2em;">👋 Hi there! Welcome to my projects section. Here, you'll find a collection of my work in robotics, AI, and more. Enjoy exploring!</span>
     </td>
   </tr>
 </table>
-
-
-# 📂 All Projects
 
 ## Robotics and Control
 
