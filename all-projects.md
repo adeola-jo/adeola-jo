@@ -1,6 +1,6 @@
 
 <div style="display: flex; align-items: center;">
-  <img src="profile-pic.jpeg" alt="Your Image" style="border-radius: 100%; margin-right: 20px; width: 50px;">
+  <img src="profile-pic.jpeg" alt="Your Image" style="border-radius: 100%; margin-right: 20px; width: 150px;">
   <div>
     <strong>Joseph Adeola</strong><br>
     👋 Hi there! Welcome to my projects section. Here, you'll find a collection of my work in robotics, AI, and more. Enjoy exploring!
