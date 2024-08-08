@@ -98,7 +98,7 @@ Certain parts of the code in these projects are confidential and are not shared 
   
   An explainable AI module for object detection models in skin lesion detection. Implements local and global attribution techniques like Grad-CAM, SmoothGrad and LRP for generating explanations. Focuses on improving model interpretability in critical applications. 
 
-- **[Pigmented Skin Lesion Detection Using Deep Learning](https://github.com/yourusername/skin-lesion-detection)**:
+- **[Pigmented Skin Lesion Detection Using Deep Learning](https://github.com/adeola-jo/Pigmented-Skin-Lesion-Detection-in-Clinical-Images-Using-Deep-Learning-Methodologies)** [![Results](https://img.shields.io/badge/Code-blue)](https://github.com/yourusername/quadcopter-pid-controller) [![Slides](https://img.shields.io/badge/Slides-yellow)](https://docs.google.com/presentation/d/1wfT9RNvPZfri0lPkou_O2XtTunm7fqA9/edit?usp=sharing&ouid=112754114270272007780&rtpof=true&sd=true) [![Paper](https://img.shields.io/badge/Paper-green)](https://drive.google.com/file/d/19WZi2HKYbNnWiBjFU6UAmOkSPnP7hWEd/view?usp=drive_link) :
   
   A deep learning model for detecting pigmented skin lesions in clinical images. Utilizes transfer learning and data augmentation techniques. Addresses challenges in working with limited medical imaging datasets.
    <!-- and achieving high sensitivity. -->
