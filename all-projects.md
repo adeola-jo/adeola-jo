@@ -63,7 +63,7 @@ Certain parts of the code in these projects are confidential and are not shared 
   A machine vision system integrated with the Stäubli TX60 robot. Uses ARUCO markers for object detection and pose estimation. 
   <!-- Tackles challenges in real-time processing and robust error handling in dynamic industrial environments. -->
 
-- **[Stereo Visual Odometry on the KITTI Dataset](https://github.com/yourusername/stereo-visual-odometry)**:
+- **[Stereo Visual Odometry on the KITTI Dataset](https://github.com/AdeolaJoseph/Stereo-Visual-Odometry)**:
   
   A stereo visual odometry system using the KITTI dataset. Implements feature extraction, matching, and motion estimation techniques. 
   <!-- Addresses challenges in handling diverse outdoor scenarios and maintaining accuracy over long distances. -->
