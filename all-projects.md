@@ -63,7 +63,7 @@ Certain parts of the code in these projects are confidential and are not shared 
   A machine vision system integrated with the Stäubli TX60 robot. Uses ARUCO markers for object detection and pose estimation. 
   <!-- Tackles challenges in real-time processing and robust error handling in dynamic industrial environments. -->
 
-  - **[iToBoS Annotation Tool](https://github.com/adeola-jo/iToBoS-Annotation-Tool)** [![Code](https://img.shields.io/badge/Code-blue)](https://github.com/adeola-jo/iToBoS-Annotation-Tool):
+- **[iToBoS Annotation Tool](https://github.com/adeola-jo/iToBoS-Annotation-Tool)** [![Code](https://img.shields.io/badge/Code-blue)](https://github.com/adeola-jo/iToBoS-Annotation-Tool):
   
   A desktop application built with React, Electron, and Vite for efficient data annotation in YOLO format. Designed to improve annotation workflow for machine learning projects.
 
@@ -98,16 +98,7 @@ Certain parts of the code in these projects are confidential and are not shared 
 
 ## AI and Machine Learning
 
-- **[Explainable AI Module for Interpreting Object Detection Models](https://github.com/yourusername/xai-object-detection)**:
-  
-  An explainable AI module for object detection models in skin lesion detection. Implements local and global attribution techniques like Grad-CAM, SmoothGrad and LRP for generating explanations. Focuses on improving model interpretability in critical applications. 
-
-- **[Pigmented Skin Lesion Detection Using Deep Learning](https://github.com/adeola-jo/Pigmented-Skin-Lesion-Detection-in-Clinical-Images-Using-Deep-Learning-Methodologies)** [![Results](https://img.shields.io/badge/Code-blue)](https://github.com/yourusername/quadcopter-pid-controller) [![Slides](https://img.shields.io/badge/Slides-yellow)](https://docs.google.com/presentation/d/1wfT9RNvPZfri0lPkou_O2XtTunm7fqA9/edit?usp=sharing&ouid=112754114270272007780&rtpof=true&sd=true) [![Paper](https://img.shields.io/badge/Paper-green)](https://drive.google.com/file/d/19WZi2HKYbNnWiBjFU6UAmOkSPnP7hWEd/view?usp=drive_link) :
-  
-  A deep learning model for detecting pigmented skin lesions in clinical images. Utilizes transfer learning and data augmentation techniques. Addresses challenges in working with limited medical imaging datasets.
-   <!-- and achieving high sensitivity. -->
-
-  - **[Spiking Neural Networks for Classification](https://github.com/adeola-jo/Spiking-Neural-Networks)** [![Code](https://img.shields.io/badge/Code-blue)](https://github.com/adeola-jo/Spiking-Neural-Networks):
+- **[Spiking Neural Networks for Image Classification](https://github.com/adeola-jo/Spiking-Neural-Networks)** [![Code](https://img.shields.io/badge/Code-blue)](https://github.com/adeola-jo/Spiking-Neural-Networks):
   
   Development and comparison of multiple SNN architectures for handwritten digit classification using the Neuromorphic MNIST dataset. Explores bio-inspired neural computation approaches.
 
@@ -118,6 +109,15 @@ Certain parts of the code in these projects are confidential and are not shared 
 - **[Privacy-Preserving Federated Learning](https://github.com/adeola-jo/PrivacyFederatedLearning)** [![Code](https://img.shields.io/badge/Code-blue)](https://github.com/adeola-jo/PrivacyFederatedLearning):
   
   A framework implementing differential privacy for distributed machine learning, enabling model training while maintaining data privacy across decentralized datasets.
+
+- **[Pigmented Skin Lesion Detection Using Deep Learning](https://github.com/adeola-jo/Pigmented-Skin-Lesion-Detection-in-Clinical-Images-Using-Deep-Learning-Methodologies)** [![Results](https://img.shields.io/badge/Code-blue)](https://github.com/yourusername/quadcopter-pid-controller) [![Slides](https://img.shields.io/badge/Slides-yellow)](https://docs.google.com/presentation/d/1wfT9RNvPZfri0lPkou_O2XtTunm7fqA9/edit?usp=sharing&ouid=112754114270272007780&rtpof=true&sd=true) [![Paper](https://img.shields.io/badge/Paper-green)](https://drive.google.com/file/d/19WZi2HKYbNnWiBjFU6UAmOkSPnP7hWEd/view?usp=drive_link) :
+  
+  A deep learning model for detecting pigmented skin lesions in clinical images. Utilizes transfer learning and data augmentation techniques. Addresses challenges in working with limited medical imaging datasets.
+   <!-- and achieving high sensitivity. -->
+
+- **[Explainable AI Module for Interpreting Object Detection Models](https://github.com/yourusername/xai-object-detection)**:
+  
+  An explainable AI module for object detection models in skin lesion detection. Implements local and global attribution techniques like Grad-CAM, SmoothGrad and LRP for generating explanations. Focuses on improving model interpretability in critical applications. 
 
 - **[Semantic Segmentation of Pigmented Skin Lesions](https://github.com/yourusername/skin-lesion-segmentation)**:
   
