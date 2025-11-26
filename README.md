@@ -37,6 +37,9 @@ I'm Joseph, an AI Engineer and Robotics Software Developer with a passion for in
   <a href="https://adeola-jo.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
+  <a href="https://github.com/adeola-jo/adeola-jo/blob/main/all-projects.md" target="_blank">
+    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Projects"/>
+  </a>
 </p>
 
 ## 📂 Recent Projects
